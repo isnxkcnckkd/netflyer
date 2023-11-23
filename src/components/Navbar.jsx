@@ -80,7 +80,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-4">
           <Link to="/">
             <img
-              src="/Logo.png"
+              src="/Logo.png.png"
               alt="Logo"
               className="h-12 w-12 md:h-16 md:w-16 lg:h-20 lg:w-20 object-contain"
             />
